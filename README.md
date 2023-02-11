@@ -27,3 +27,6 @@ envolvidos todas as possibilidades do framework e aquelas que poderiam resolver 
 Na minha opinião a jornada foi impecável, e a consultoria conseguiu implementar a cultura ágil de forma prática,
 fazendo com que todos percebessem ao longo do caminho o imenso valor agregado ao processo, o que refletiu no sucesso
 do atingimento da meta do produto. Com genialidade, a consultoria se colocou no papel exato de um Scrum Master no processo de implementação.
+
+
+**Novas análises serão em breve adicionadas**
