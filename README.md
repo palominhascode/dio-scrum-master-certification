@@ -1,5 +1,5 @@
-# dio-scrum-master-certification
-Desafio de projeto - Análise de Cases
+### dio-scrum-master-certification
+## Desafio de projeto - Análise de Cases de aplicação SCRUM
 
 # Case 1 - Sony
 https://www.agile42.com/en/success-stories/success-story-sony
@@ -29,4 +29,4 @@ fazendo com que todos percebessem ao longo do caminho o imenso valor agregado ao
 do atingimento da meta do produto. Com genialidade, a consultoria se colocou no papel exato de um Scrum Master no processo de implementação.
 
 
-**Novas análises serão em breve adicionadas**
+***Novas análises serão em breve adicionadas**
